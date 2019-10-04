@@ -9,3 +9,7 @@
 # Date: 10-3-2019
 # ===================================================================
 
+library(dplyr)
+library(ggplot2)
+
+read.csv("nba2018-players.csv")
