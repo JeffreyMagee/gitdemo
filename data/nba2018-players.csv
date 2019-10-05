@@ -1,55 +1,115 @@
-"player","team","position","height","weight","age","experience","college","salary","games","minutes","points","points3","points2","points1"
-"Al Horford","BOS","C",82,245,30,9,"University of Florida",26540100,68,2193,952,86,293,108
-"Amir Johnson","BOS","PF",81,240,29,11,"",1.2e+07,80,1608,520,27,186,67
-"Avery Bradley","BOS","SG",74,180,26,6,"University of Texas at Austin",8269663,55,1835,894,108,251,68
-"Demetrius Jackson","BOS","PG",73,201,22,0,"University of Notre Dame",1450000,5,17,10,1,2,3
-"Gerald Green","BOS","SF",79,205,31,9,"",1410598,47,538,262,39,56,33
-"Isaiah Thomas","BOS","PG",69,185,27,5,"University of Washington",6587132,76,2569,2199,245,437,590
-"Jae Crowder","BOS","SF",78,235,26,4,"Marquette University",6286408,72,2335,999,157,176,176
-"James Young","BOS","SG",78,215,21,2,"University of Kentucky",1825200,29,220,68,12,13,6
-"Jaylen Brown","BOS","SF",79,225,20,0,"University of California",4743000,78,1341,515,46,146,85
-"Jonas Jerebko","BOS","PF",82,231,29,6,"",5e+06,78,1232,299,45,69,26
-"Jordan Mickey","BOS","PF",80,235,22,1,"Louisiana State University",1223653,25,141,38,0,15,8
-"Kelly Olynyk","BOS","C",84,238,25,3,"Gonzaga University",3094014,75,1538,678,68,192,90
-"Marcus Smart","BOS","SG",76,220,22,2,"Oklahoma State University",3578880,79,2399,835,94,175,203
-"Terry Rozier","BOS","PG",74,190,22,1,"University of Louisville",1906440,74,1263,410,57,94,51
-"Tyler Zeller","BOS","C",84,253,27,4,"University of North Carolina",8e+06,51,525,178,0,78,22
-"Andrew Bogut","CLE","C",84,260,32,11,"University of Utah",242224,1,1,0,0,0,0
-"Channing Frye","CLE","C",83,255,33,10,"University of Arizona",7806971,74,1398,676,137,101,63
-"Dahntay Jones","CLE","SF",78,225,36,12,"Rutgers University, Duke University",24022,1,12,9,0,3,3
-"Deron Williams","CLE","PG",75,200,32,11,"University of Illinois at Urbana-Champaign",259626,24,486,179,22,46,21
-"Derrick Williams","CLE","PF",80,240,25,5,"University of Arizona",402043,25,427,156,21,33,27
-"Edy Tavares","CLE","C",87,260,24,1,"",5145,1,24,6,0,3,0
-"Iman Shumpert","CLE","SG",77,220,26,5,"Georgia Institute of Technology",9700000,76,1937,567,94,107,71
-"J.R. Smith","CLE","SG",78,225,31,12,"",12800000,41,1187,351,95,28,10
-"James Jones","CLE","SF",80,218,36,13,"University of Miami",1551659,48,381,132,31,13,13
-"Jordan McRae","CLE","SG",78,185,25,1,"University of Tennessee",874636,37,384,161,18,40,27
-"Kay Felder","CLE","PG",69,176,21,0,"Oakland University",543471,42,386,166,7,55,35
-"Kevin Love","CLE","PF",82,251,28,8,"University of California, Los Angeles",21165675,60,1885,1142,145,225,257
-"Kyle Korver","CLE","SG",79,212,35,13,"Creighton University",5239437,35,859,373,97,34,14
-"Kyrie Irving","CLE","PG",75,193,24,5,"Duke University",17638063,72,2525,1816,177,494,297
-"Larry Sanders","CLE","C",83,235,28,5,"Virginia Commonwealth University",207722,5,13,4,0,1,2
-"LeBron James","CLE","SF",80,250,32,13,"",30963450,74,2794,1954,124,612,358
-"Richard Jefferson","CLE","SF",79,233,36,15,"University of Arizona",2500000,79,1614,448,62,91,80
-"Tristan Thompson","CLE","C",81,238,25,5,"University of Texas at Austin",15330435,78,2336,630,0,262,106
-"Bruno Caboclo","TOR","SF",81,218,21,2,"",1589640,9,40,14,2,4,0
-"Cory Joseph","TOR","PG",75,193,25,5,"University of Texas at Austin",7330000,80,2003,740,48,251,94
-"Delon Wright","TOR","PG",77,183,24,1,"University of Utah",1577280,27,446,150,10,39,42
-"DeMar DeRozan","TOR","SG",79,221,27,7,"University of Southern California",26540100,74,2620,2020,33,688,545
-"DeMarre Carroll","TOR","SF",80,215,30,7,"Vanderbilt University, University of Missouri",14200000,72,1882,638,109,111,89
-"Fred VanVleet","TOR","PG",72,195,22,0,"Wichita State University",543471,37,294,107,11,28,18
-"Jakob Poeltl","TOR","C",84,248,21,0,"University of Utah",2703960,54,626,165,0,67,31
-"Jonas Valanciunas","TOR","C",84,265,24,4,"",14382022,80,2066,959,1,390,176
-"Kyle Lowry","TOR","PG",72,205,30,10,"Villanova University",1.2e+07,60,2244,1344,193,233,299
-"Lucas Nogueira","TOR","C",84,241,24,2,"",1921320,57,1088,253,3,100,44
-"Norman Powell","TOR","SG",76,215,23,1,"University of California, Los Angeles",874636,76,1368,636,56,171,126
-"P.J. Tucker","TOR","SF",78,245,31,5,"University of Texas at Austin",5300000,24,609,139,24,28,11
-"Pascal Siakam","TOR","PF",81,230,22,0,"New Mexico State University",1196040,55,859,229,1,102,22
-"Patrick Patterson","TOR","PF",81,230,27,6,"University of Kentucky",6050000,65,1599,445,94,60,43
-"Serge Ibaka","TOR","PF",82,235,27,7,"",12250000,23,712,327,41,87,30
-"Bojan Bogdanovic","WAS","SF",80,216,27,2,"",3730653,26,601,330,45,62,71
-"Bradley Beal","WAS","SG",77,207,23,4,"University of Florida",22116750,77,2684,1779,223,414,282
-"Brandon Jennings","WAS","PG",73,170,27,7,"",1200000,23,374,81,11,18,12
+     height          weight     
+ Min.   :69.00   Min.   :150.0  
+ 1st Qu.:77.00   1st Qu.:200.0  
+ Median :79.00   Median :220.0  
+ Mean   :79.09   Mean   :219.9  
+ 3rd Qu.:82.00   3rd Qu.:240.0  
+ Max.   :87.00   Max.   :290.0  
+'data.frame':	477 obs. of  15 variables:
+ $ player    : Factor w/ 477 levels "A.J. Hammons",..: 6 18 37 113 158 176 184 196 207 233 ...
+ $ team      : Factor w/ 30 levels "ATL","BOS","BRK",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ position  : Factor w/ 5 levels "C","PF","PG",..: 1 2 5 3 4 3 4 5 4 2 ...
+ $ height    : int  82 81 74 73 79 69 78 78 79 82 ...
+ $ weight    : int  245 240 180 201 205 185 235 215 225 231 ...
+ $ age       : int  30 29 26 22 31 27 26 21 20 29 ...
+ $ experience: int  9 11 6 0 9 5 4 2 0 6 ...
+ $ college   : Factor w/ 133 levels "","Arizona State University",..: 88 1 116 109 1 120 45 95 81 1 ...
+ $ salary    : num  26540100 12000000 8269663 1450000 1410598 ...
+ $ games     : int  68 80 55 5 47 76 72 29 78 78 ...
+ $ minutes   : int  2193 1608 1835 17 538 2569 2335 220 1341 1232 ...
+ $ points    : int  952 520 894 10 262 2199 999 68 515 299 ...
+ $ points3   : int  86 27 108 1 39 245 157 12 46 45 ...
+ $ points2   : int  293 186 251 2 56 437 176 13 146 69 ...
+ $ points1   : int  108 67 68 3 33 590 176 6 85 26 ...
+'data.frame':	477 obs. of  15 variables:
+ $ player    : Factor w/ 477 levels "A.J. Hammons",..: 6 18 37 113 158 176 184 196 207 233 ...
+ $ team      : Factor w/ 30 levels "ATL","BOS","BRK",..: 2 2 2 2 2 2 2 2 2 2 ...
+ $ position  : Factor w/ 5 levels "C","PF","PG",..: 1 2 5 3 4 3 4 5 4 2 ...
+ $ height    : int  82 81 74 73 79 69 78 78 79 82 ...
+ $ weight    : int  245 240 180 201 205 185 235 215 225 231 ...
+ $ age       : int  30 29 26 22 31 27 26 21 20 29 ...
+ $ experience: int  9 11 6 0 9 5 4 2 0 6 ...
+ $ college   : Factor w/ 133 levels "","Arizona State University",..: 88 1 116 109 1 120 45 95 81 1 ...
+ $ salary    : num  26540100 12000000 8269663 1450000 1410598 ...
+ $ games     : int  68 80 55 5 47 76 72 29 78 78 ...
+ $ minutes   : int  2193 1608 1835 17 538 2569 2335 220 1341 1232 ...
+ $ points    : int  952 520 894 10 262 2199 999 68 515 299 ...
+ $ points3   : int  86 27 108 1 39 245 157 12 46 45 ...
+ $ points2   : int  293 186 251 2 56 437 176 13 146 69 ...
+ $ points1   : int  108 67 68 3 33 590 176 6 85 26 ...
+              player       team   
+ Brandon Ingram  :1   LAL    :14  
+ Corey Brewer    :1   ATL    : 0  
+ D'Angelo Russell:1   BOS    : 0  
+ David Nwaba     :1   BRK    : 0  
+ Ivica Zubac     :1   CHI    : 0  
+ Jordan Clarkson :1   CHO    : 0  
+ (Other)         :8   (Other): 0  
+ position     height     
+ C :3     Min.   :75.00  
+ PF:2     1st Qu.:77.25  
+ PG:2     Median :81.00  
+ SF:4     Mean   :79.93  
+ SG:3     3rd Qu.:81.00  
+          Max.   :85.00  
+                         
+     weight           age       
+ Min.   :186.0   Min.   :19.00  
+ 1st Qu.:194.2   1st Qu.:22.00  
+ Median :215.0   Median :24.50  
+ Mean   :223.9   Mean   :25.64  
+ 3rd Qu.:250.0   3rd Qu.:30.00  
+ Max.   :275.0   Max.   :37.00  
+                                
+   experience    
+ Min.   : 0.000  
+ 1st Qu.: 1.250  
+ Median : 2.000  
+ Mean   : 4.643  
+ 3rd Qu.: 8.250  
+ Max.   :16.000  
+                 
+                                                     college 
+                                                         :2  
+ Duke University                                         :2  
+ California Polytechnic State University, San Luis Obispo:1  
+ Ohio State University                                   :1  
+ St. John's University                                   :1  
+ Syracuse University                                     :1  
+ (Other)                                                 :6  
+     salary             games      
+ Min.   :  137466   Min.   :20.00  
+ 1st Qu.: 1597214   1st Qu.:28.25  
+ Median : 5307240   Median :55.00  
+ Mean   : 6080389   Mean   :50.86  
+ 3rd Qu.: 7247750   3rd Qu.:66.00  
+ Max.   :18000000   Max.   :82.00  
+                                   
+    minutes           points      
+ Min.   : 160.0   Min.   :  57.0  
+ 1st Qu.: 437.8   1st Qu.: 187.8  
+ Median :1097.5   Median : 392.0  
+ Mean   :1166.6   Mean   : 493.2  
+ 3rd Qu.:1747.2   3rd Qu.: 778.2  
+ Max.   :2397.0   Max.   :1205.0  
+                                  
+    points3          points2     
+ Min.   :  0.00   Min.   : 10.0  
+ 1st Qu.:  1.00   1st Qu.: 61.5  
+ Median : 13.00   Median :119.5  
+ Mean   : 41.57   Mean   :147.8  
+ 3rd Qu.: 54.00   3rd Qu.:204.2  
+ Max.   :170.00   Max.   :360.0  
+                                 
+    points1      
+ Min.   : 10.00  
+ 1st Qu.: 26.50  
+ Median : 54.50  
+ Mean   : 72.93  
+ 3rd Qu.:120.25  
+ Max.   :204.00  
+                 
+,1200000,23,374,81,11,18,12
 "Chris McCullough","WAS","PF",83,200,21,1,"Syracuse University",1191480,2,8,1,0,0,1
 "Daniel Ochefu","WAS","C",83,245,23,0,"Villanova University",543471,19,75,24,0,12,0
 "Danuel House","WAS","SG",79,207,23,0,"Texas A&M University",543471,1,1,0,0,0,0
